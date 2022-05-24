@@ -10,4 +10,4 @@ the data from the api that I was interested in and save it into a csv file calle
  duplicates and save it into the same file. In the end I just filter the
 data from the csv to answer the question.
 
-|THANK YOU TO READ|
+|THANK YOU FOR READING|
